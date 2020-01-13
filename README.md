@@ -7,13 +7,22 @@
 近两日折腾的结果，分享如下：
 
 配置：
+
 CPU：Intel Xeon E-2176M
+
 显卡： Intel UHD Graphics P630， Nvidia P2000 max-q（无法驱动）
+
 硬盘： WesternDigital SN550 1T + Toshiba XG5 1T
+
 声卡： ALC285
+
 显示屏： 4K 3840*2160
+
 内存： Samsung ECC 16GX2
+
 Wi-Fi/蓝牙：苹果BCM943602CS+转接卡
+
+
 
 > 美版ThinkPad P1， BIOS 1.23版本没有无线网卡白名单
 >
