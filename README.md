@@ -6,6 +6,10 @@
 
 近两日折腾的结果，分享如下：
 
+
+
+
+
 配置：
 
 CPU：Intel Xeon E-2176M
@@ -30,9 +34,17 @@ Wi-Fi/蓝牙：苹果BCM943602CS+转接卡
 
 
 
-网卡+转接卡：
+
+
+
+
+网卡+转接卡链接：
 
 [https://github.com/zysuper/Thinkpad-X1-extreme-EFI/blob/master/doc/Wi-Fi%20bluethooth.md](https://github.com/zysuper/Thinkpad-X1-extreme-EFI/blob/master/doc/Wi-Fi bluethooth.md)
+
+
+
+
 
 
 
@@ -47,10 +59,18 @@ Wi-Fi/蓝牙：苹果BCM943602CS+转接卡
 
 
 
+
+
+
+
 不可用组件：
 
 1. 指纹
 2. 雷电3热插拔
+
+
+
+
 
 
 
@@ -61,6 +81,10 @@ ThinkPad Workstation ThunderBolt 3 Dock
 WAVLINK **WL-UG69DK1** USB扩展坞（外接usb显卡，可以实现双4k单5k） 
 
 > 链接：https://item.jd.com/8734480.html
+
+
+
+
 
 
 
