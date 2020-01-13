@@ -2,7 +2,7 @@
 
 > 根据 https://github.com/Errrneist/Hackintosh-Thinkpad-X1-Extreme 制作
 >
-> 感谢https://github.com/p455555555/Thinkpad-P1-EFI给我信心：）
+> 感谢https://github.com/p455555555/Thinkpad-P1-EFI
 
 近两日折腾的结果，分享如下：
 
